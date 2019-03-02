@@ -14,3 +14,7 @@
 6. 读源码并不是一个简单的工作，如果说jQuery源码的复杂度是1，那么我觉得Vue应该是10。有一个小技巧就是，在读源码的时候，自己创建一个项目，把不太理解的地方写出来，然后断点调试，可能会有意想不到的发现。
 
 本源码解析将与[simple-vue](https://github.com/Miller547719886/simple-vue/tree/master)的实现同步进行。
+
+### 目录
+
+[1](https://github.com/Miller547719886/blog/issues/1)
